@@ -1,0 +1,27 @@
+[
+  {
+    "id":1,
+    "joke": "Why was the JavaScript developer sad? \n\nBecause he didn't know how to 'null' his feelings.",
+    "source": "ChatGPT"
+  },
+  {
+    "id":2,
+    "joke": "Why do Java and JavaScript developers always mix up their methods? \n\nBecause they both have `Object.method()`.",
+    "source": "ChatGPT"
+  },
+  {
+    "id":3,
+    "joke": "Why was the JavaScript function feeling depressed? \n\nBecause it was an 'anonymous' function and no one knew its name.",
+    "source": "ChatGPT"
+  },
+  {
+    "id":4,
+    "joke": "Why was the JavaScript developer angry at his code? \n\nBecause it was 'undefined' what was causing the bug.",
+    "source": "ChatGPT"
+  },
+  {
+    "id":5,
+    "joke": "Why was the JavaScript developer's code always messy? \n\nBecause he was a 'closure' in a 'callback hell.'",
+    "source": "ChatGPT"
+  }
+]
